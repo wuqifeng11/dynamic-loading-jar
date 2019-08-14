@@ -1,4 +1,4 @@
-package com.lz.algorithmManager.utils;
+package com.wqf.jarmanager.utils;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;

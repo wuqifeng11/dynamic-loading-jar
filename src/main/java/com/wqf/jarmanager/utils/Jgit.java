@@ -1,4 +1,4 @@
-package com.lz.algorithmManager.utils;
+package com.wqf.jarmanager.utils;
 
 import java.io.File;
 import java.io.IOException;
@@ -11,8 +11,9 @@ import org.eclipse.jgit.api.errors.GitAPIException;
 import org.eclipse.jgit.transport.UsernamePasswordCredentialsProvider;
 import org.springframework.beans.factory.annotation.Value;
 
-import com.lz.algorithmManager.modal.ErrorCode;
-import com.lz.algorithmManager.modal.GitInfo;
+import com.wqf.jarmanager.modal.ErrorCode;
+import com.wqf.jarmanager.modal.GitInfo;
+
 
 public class Jgit {
 	

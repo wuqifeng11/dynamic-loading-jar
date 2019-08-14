@@ -1,4 +1,4 @@
-package com.lz.jarmanager;
+package com.wqf.jarmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

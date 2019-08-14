@@ -1,4 +1,4 @@
-package com.lz.algorithmManager.controller;
+package com.wqf.jarmanager.controller;
 
 import javax.websocket.server.PathParam;
 
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.lz.algorithmManager.modal.Param;
-import com.lz.algorithmManager.service.AlgorithmService;
+import com.wqf.jarmanager.modal.Param;
+import com.wqf.jarmanager.service.AlgorithmService;
 
 
 

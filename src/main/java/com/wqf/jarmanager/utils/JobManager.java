@@ -1,6 +1,6 @@
-package com.lz.algorithmManager.utils;
+package com.wqf.jarmanager.utils;
 
-import com.lz.algorithmManager.modal.Param;
+import com.wqf.jarmanager.modal.Param;
 
 /**
  * Created by lyc on 2017/9/30.

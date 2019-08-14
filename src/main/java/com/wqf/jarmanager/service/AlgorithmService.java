@@ -1,6 +1,6 @@
-package com.lz.algorithmManager.service;
+package com.wqf.jarmanager.service;
 
-import com.lz.algorithmManager.modal.Param;
+import com.wqf.jarmanager.modal.Param;
 
 public interface AlgorithmService {
 	

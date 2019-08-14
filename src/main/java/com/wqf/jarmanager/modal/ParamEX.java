@@ -1,4 +1,4 @@
-package com.lz.algorithmManager.modal;
+package com.wqf.jarmanager.modal;
 
 import java.io.Serializable;
 

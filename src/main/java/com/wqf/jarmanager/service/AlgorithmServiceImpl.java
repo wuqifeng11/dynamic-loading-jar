@@ -1,17 +1,18 @@
-package com.lz.algorithmManager.service;
+package com.wqf.jarmanager.service;
 
 import java.io.File;
 
 import org.springframework.stereotype.Service;
 
-import com.lz.algorithmManager.modal.GitInfo;
-import com.lz.algorithmManager.modal.Param;
-import com.lz.algorithmManager.modal.ParamEX;
-import com.lz.algorithmManager.utils.Configuration;
-import com.lz.algorithmManager.utils.Jgit;
-import com.lz.algorithmManager.utils.JobManager;
-import com.lz.algorithmManager.utils.PluginLoader;
-import com.lz.algorithmManager.utils.PluginUtils;
+import com.wqf.jarmanager.modal.GitInfo;
+import com.wqf.jarmanager.modal.Param;
+import com.wqf.jarmanager.modal.ParamEX;
+import com.wqf.jarmanager.utils.Configuration;
+import com.wqf.jarmanager.utils.Jgit;
+import com.wqf.jarmanager.utils.JobManager;
+import com.wqf.jarmanager.utils.PluginLoader;
+import com.wqf.jarmanager.utils.PluginUtils;
+
 
 @Service
 public class AlgorithmServiceImpl implements AlgorithmService {

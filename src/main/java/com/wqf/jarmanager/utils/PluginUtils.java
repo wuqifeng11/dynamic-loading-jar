@@ -1,4 +1,4 @@
-package com.lz.algorithmManager.utils;
+package com.wqf.jarmanager.utils;
 
 import java.io.File;
 import java.io.UnsupportedEncodingException;
